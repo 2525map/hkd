@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+                                                                                
+"features": [
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "八景島", "lon": 139.640830, "lat": 35.340900, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.64083, 35.340895 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "産業振興センター", "lon": 139.646320, "lat": 35.353430, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.646325, 35.353425 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "幸浦", "lon": 139.643690, "lat": 35.358400, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.64369, 35.358395 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "海の公園柴口", "lon": 139.635910, "lat": 35.342120, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.63591, 35.34212 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "並木北", "lon": 139.642730, "lat": 35.372020, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.64273, 35.372015 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "鳥浜", "lon": 139.641800, "lat": 35.377180, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.6418, 35.37718 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "並木中央", "lon": 139.642990, "lat": 35.365450, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.642985, 35.36545 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "海の公園南口", "lon": 139.632140, "lat": 35.337200, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.63214, 35.3372 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "南部市場", "lon": 139.633210, "lat": 35.380180, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.633205, 35.380185 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "福浦", "lon": 139.648530, "lat": 35.349610, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.648535, 35.34961 ] } },
+{ "type": "Feature", "properties": { "N02_001": "24", "N02_002": "5", "line": "金沢シーサイドライン", "company": "横浜シーサイドライン", "station_name": "市大医学部", "lon": 139.650130, "lat": 35.343900, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.65013, 35.343905 ] } },
+{ "type": "Feature", "properties": { "N02_001": "12", "N02_002": "4", "line": "京浜急行 逗子線", "company": "京浜急行電鉄", "station_name": "六浦", "lon": 139.611490, "lat": 35.322720, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.61149, 35.322725 ] } },
+{ "type": "Feature", "properties": { "N02_001": "12", "N02_002": "4", "line": "京浜急行 逗子線", "company": "京浜急行電鉄", "station_name": "金沢八景", "lon": 139.620130, "lat": 35.331130, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.620125, 35.33113 ] } },
+{ "type": "Feature", "properties": { "N02_001": "12", "N02_002": "4", "line": "京浜急行 本線", "company": "京浜急行電鉄", "station_name": "金沢八景", "lon": 139.620130, "lat": 35.331130, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.620125, 35.33113 ] } },
+{ "type": "Feature", "properties": { "N02_001": "12", "N02_002": "4", "line": "京浜急行 本線", "company": "京浜急行電鉄", "station_name": "能見台", "lon": 139.629240, "lat": 35.360520, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.62923695092036, 35.360517573960678 ] } },
+{ "type": "Feature", "properties": { "N02_001": "12", "N02_002": "4", "line": "京浜急行 本線", "company": "京浜急行電鉄", "station_name": "金沢文庫", "lon": 139.621780, "lat": 35.343240, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.62177513136635, 35.343243711601126 ] } },
+{ "type": "Feature", "properties": { "N02_001": "12", "N02_002": "4", "line": "京浜急行 本線", "company": "京浜急行電鉄", "station_name": "京急富岡", "lon": 139.629760, "lat": 35.366710, "shubetsu": "私鉄" }, "geometry": { "type": "Point", "coordinates": [ 139.62976, 35.36671 ] } }
+]
+}
