@@ -75,7 +75,7 @@ FacilityFilter.prototype.getFilteredFeaturesGeoJson = function (conditions, nurs
                         checkAry = ["19:30","20:00","20:30","21:00"];
                         break;
                     case "2030":
-                        checkAry = [""20:30","21:00"];
+                        checkAry = ["20:30","21:00"];
                         break;
                     case "2100":
                         checkAry = ["21:00"];
