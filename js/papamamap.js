@@ -86,7 +86,7 @@ Papamamap.prototype.generate = function(mapServerListItem)
             center: ol.proj.transform(this.viewCenter, 'EPSG:4326', 'EPSG:3857'),
             zoom: 14,
             maxZoom: 18,
-            minZoom: 10
+            minZoom: 8
         }),
         controls: [
              new ol.control.Attribution({collapsible: true}),
