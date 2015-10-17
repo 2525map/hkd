@@ -87,7 +87,8 @@ var nurseryStyleFunction = function(feature, resolution, featureStyle) {
 	resolution = Math.floor(resolution * 1000);
 	var _type = "";
 	var label = feature.get('ラベル') ? feature.get('ラベル') : feature.get('Label')
-	var text = resolution < 10000 ? label : '';
+	// var text = resolution < 10000 ? label : '';
+	var text = resolution < 80000 ? label : '';
 	var style = [];
 	style = [
 		new ol.style.Style({image: background}),
@@ -154,9 +155,11 @@ function baseSchoolStyle(mojicolor, fillcolor) {
 		];
 
 		resolution = Math.floor(resolution * 1000);
+		console.log("resolution", resolution);
 		var text = "";
 		if(feature.get('label') !== null) {
-			text = resolution < 12000 ? feature.get('label') : '';
+			// text = resolution < 12000 ? feature.get('label') : '';
+			text = resolution < 160000 ? feature.get('label') : '';
 		}
 		if (text !== "") {
 			style.push(
