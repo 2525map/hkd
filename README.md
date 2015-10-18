@@ -7,14 +7,19 @@
 
 ##北海道オープンデータハッカソンについて
 「ほっかいどう保育園マップ」は北海道オープンデータハッカソンのパパママチームによって作成されました。
+
 作成の過程・ハッカソンについては以下のページをご覧ください。
+
 https://docs.google.com/document/d/1s8Y6Ahdl-MZY3OGiTaBs6MPAviujxuJx2uxk2uZ3rmY
+
 https://opendata.doorkeeper.jp/events/30873
 
 ## 利用データ・ライセンス
 
-北海道（認可保育所、認可外保育所）、
+北海道（認可保育所、認可外保育所）
+
 国土数値情報（福祉施設、小学校区、中学校区、学校、鉄道）
+
 地理院地図、OpenStreetMap、Bing Maps API
 
 北海道オープンデータ
